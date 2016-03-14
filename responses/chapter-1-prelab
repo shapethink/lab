@@ -1,0 +1,27 @@
+title: Chapter 1: Prelab Assignment
+author: Robert M. Koch
+date: 2016-03-14
+
+Exercise 1: What computer are you using?
+
+A dual-core 1.8GHz x86 Acer laptop with 1GB ram and 240GB storage
+
+Exercise 2: What operating system are you running?
+
+Lubuntu 15.10, a lightweight distribution of GNU/Linux derived from Debian via Ubuntu
+
+Exercise 3: What C++ system are you using?
+
+g++ 5.2.1
+
+Exercise 4: Is your C++ system an integrated system, or is the editor separate from the compiler:
+
+The editor is separate.
+
+Exercise 5: If the editor is separate, which editor are you using?
+
+Sublime Text 3 (beta) for graphical use, `nano -w` for cli use.
+
+Exercise 6: If you are not using an integrated system, what are the compile, run, and edit commands you are using?
+
+Editing is done as described in exercise 5. The program is compiled with `g++ -o outfile infiles...`, and run with `./outfile`.
